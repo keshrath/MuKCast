@@ -2,7 +2,7 @@ name = MuKCast
 
 authors = [Mathias Markl](http://www.mukprojects.at)
 
-url = https://github.com/keshrath/PCast
+url = https://github.com/keshrath/MuKCast
 
 categories = I/O
 
