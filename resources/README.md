@@ -104,7 +104,7 @@ void handleMessage(MuKCastClient client, Message message) {
 
 ## How to install
 
-Download PCast library from [here](https://github.com/keshrath/PCast/raw/master/distribution/PCast/download/PCast.zip).
+Download MuKCast library from [here](https://github.com/keshrath/MuKCast/blob/master/distribution/MuKCast/download/MuKCast.zip).
 
 Unzip and copy it into the `libraries` folder in the Processing sketchbook. You will need to create this `libraries` folder if it does not exist.
 
@@ -119,7 +119,7 @@ The folder structure for library Console should be as follows:
 ```
 Processing
   libraries
-    PCast
+    MuKCast
       examples
       library
       reference
