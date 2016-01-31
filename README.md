@@ -104,7 +104,7 @@ void handleMessage(MuKCastClient client, Message message) {
 
 ## How to install
 
-Download MuKCast library from [here](https://github.com/keshrath/MuKCast/blob/master/distribution/MuKCast/download/MuKCast.zip).
+Download MuKCast library from [here](https://github.com/keshrath/MuKCast/raw/master/distribution/MuKCast/download/MuKCast.zip).
 
 Unzip and copy it into the `libraries` folder in the Processing sketchbook. You will need to create this `libraries` folder if it does not exist.
 
